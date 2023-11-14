@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faizan Mushtaq
-- 👀 I’m interested in Desktop Applications
+- 👀 I’m interested in Desktop Applications Development
 - 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me faizanmushtaq022@gmail.com
